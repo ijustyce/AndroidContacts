@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">安全通讯录</string>
+    <string name="hello_world">更简洁，更独特</string>
+
+    <!-- txApplication -->
+    <string name="copy_success">复制成功</string>
+
+    <!-- settings -->
+    <string name="summary">必选*</string>
+    <string name="anim">窗口切换动画</string>
+    <string name="theme">主题</string>
+    <string name="lock">程序锁</string>
+
+    <!-- about -->
+    <string name="txh_version">安全通讯录 1.0</string>
+
+    <!-- feedback -->
+    <string name="submit">提交</string>
+    <string name="contact">联系方式</string>
+    <string name="msg">反馈内容</string>
+    <string name="dialog_title">请稍后</string>
+    <string name="dialog_content">正在提交，请稍后</string>
+    <string name="error_feedback">输入不能为空</string>
+
+    <!-- baseclass -->
+    <string name="sign_fail">不是原版软件，建议您卸载。</string>
+
+    <!-- password -->
+    <string name="hint">请输入您的密码：</string>
+    <string name="ok">确定</string>
+    <string name="del">回退</string>
+    <string name="pw_success">欢迎使用</string>
+    <string name="pw_error">解锁出错</string>
+    <string name="pw_wait">超过三次错误，程序即将退出</string>
+    <string name="pw_set">请先设置您的密码</string>
+    <string name="pass_hint">手势无法找回，请牢记</string>
+    <string name="pass_info">请绘制手势以解锁</string>
+    <string name="pass_first">请绘制您的手势</string>
+    <string name="pass_affirm">请确认您的手势</string>
+    <string name="pass_affirm_error">两次手势不一致，请重新绘制</string>
+    <string name="pass_short">密码太短，请重新输入</string>
+
+    <!-- MainActivity -->
+    <string name="favorite">我的收藏</string>
+    <string name="secret">私密联系人</string>
+    <string name="MinXian">岷县</string>
+    <string name="HangZhou">杭州</string>
+    <string name="other">其他</string>
+    <string name="relative">亲戚</string>
+    <string name="feedback">反馈</string>
+    <string name="about">关于</string>
+    <string name="more">备份还原</string>
+    <string name="backup">备份</string>
+    <string name="restore">还原</string>
+
+    <!-- list -->
+    <string name="AddPrson">添加新联系人</string>
+    <string name="name">姓名:</string>
+    <string name="phone">手机:</string>
+
+    <!-- backup和restore -->
+    <string name="warn">这可能删除旧数据，确定？</string>
+    <string name="yes">确定</string>
+    <string name="no">取消</string>
+
+    <!-- list列表弹出菜单 -->
+    <string name="call">呼叫</string>
+    <string name="sms">发短信</string>
+    <string name="copy">复制</string>
+    <string name="edit">编辑</string>
+    <string name="delete">删除</string>
+    
+    <!-- 异常信息 -->
+    <string name="error_fileNotFound">源文件不存在!</string>
+
+</resources>

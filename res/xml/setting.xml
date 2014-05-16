@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/app_name" >
+
+    <ListPreference
+        android:defaultValue="gesture"
+        android:entries="@array/lock"
+        android:entryValues="@array/lockValue"
+        android:key="lock"
+        android:layout="@layout/setting_preference"
+        android:summary="@string/summary"
+        android:title="@string/lock" />
+  
+    <ListPreference
+        android:defaultValue="zoom"
+        android:entries="@array/anim"
+        android:entryValues="@array/animValue"
+        android:key="anim"
+        android:layout="@layout/setting_preference"
+        android:summary="@string/summary"
+        android:title="@string/anim" />
+  
+    <ListPreference
+        android:defaultValue="pure"
+        android:entries="@array/theme"
+        android:entryValues="@array/themeValue"
+        android:key="theme"
+        android:layout="@layout/setting_preference"
+        android:summary="@string/summary"
+        android:title="@string/theme" />
+
+</PreferenceScreen>
